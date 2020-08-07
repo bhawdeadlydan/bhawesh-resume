@@ -20,12 +20,7 @@ module.exports = {
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://github.com/bhawdeadlydan',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/bhawdeadlydan',
+      url: 'https://twitter.com/bhawdeadlydan',
     },
     {
       icon: 'fa-envelope-o',
