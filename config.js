@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: ``, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `bhawesh-resume`, // This path is subpath of your hosting https://domain/portfolio
   authorName: 'Bhawesh Kumar Singh',
   heading: 'Application Developer',
   // social
