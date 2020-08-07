@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-identity",
+  "name": "bhawesh-resume",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Identity by HTML5 UP",
+  "description": "Bhawesh Resume based on Identity by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-identity.git"
+    "url": "git+https://github.com/bhawdeadlydan/bhawesh-resume.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Bhawesh Kumar Singh",
+    "email": "bhawdeadlydan@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -40,9 +40,5 @@
     "gatsby-starter",
     "gatsby-starter-identity"
   ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-identity/issues"
-  },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-identity#readme"
+  "license": "MIT"
 }
